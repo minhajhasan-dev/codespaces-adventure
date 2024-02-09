@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Minhaj Hasan Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://minhajhasan-dev.github.io/codespaces-adventure",
+  "homepage": "https://minhajhasan-dev.github.io/codespaces-adventure/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://minhajhasan-dev.github.io/codespaces-adventure'",
+    "build-gh": "parcel build --public-url 'https://minhajhasan-dev.github.io/codespaces-adventure/'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
