@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/design-desk.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Desk with design tools and laptop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "E-commerce Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Built a fully functional e-commerce website using React, Redux, and Firebase. Integrated payment gateway and implemented user authentication.",
+    url: "https://github.com/your-username/e-commerce-website",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Weather App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a weather application that displays real-time weather data using an API. Implemented geolocation to fetch weather based on user's location.",
+    url: "https://github.com/your-username/weather-app",
   },
   {
-    title: "My Resume Site",
+    title: "Task Manager",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a task manager application with features like adding tasks, setting deadlines, and marking tasks as completed. Used React and local storage for data persistence.",
+    url: "https://github.com/your-username/task-manager",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Blog Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Designed and developed a blog website using React and Node.js. Implemented features like user authentication, creating and editing blog posts, and commenting system.",
+    url: "https://github.com/your-username/blog-website",
   },
 ];
 
